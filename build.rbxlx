@@ -7,7 +7,7 @@
         <G>0</G>
         <B>0</B>
       </Color3>
-      <float name="Brightness">3</float>
+      <float name="Brightness">2</float>
       <bool name="GlobalShadows">true</bool>
       <bool name="Outlines">false</bool>
       <token name="Technology">1</token>
